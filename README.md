@@ -7,7 +7,7 @@ Includendo i due file:
 
 e includendo il file nel main:
 
-    #inlude "cerchio.h"
+    #include "cerchio.h"
 
 sarà possibile creare un oggetto di tipo cerchio nel programma main:
 
